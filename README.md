@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @dheerajyadav7571
-- 👀 I’m interested in development...
-- 🌱 I’m currently learning c language...
-- 💞️ I’m looking to collaborate on c programme...
+- 👀 I’m interested in development
+- 🌱 I’m currently learning JS,.NET framework , SQL SERVER
+- 💞️ I’m looking to collaborate on >NET FRAMEWORK
 - 📫 How to reach me.....>>>my mail id>>dheerajyadav7571@gmail.com...
 
-<!---
-dheerajyadav7571/dheerajyadav7571 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
